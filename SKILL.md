@@ -1,6 +1,7 @@
 ---
 name: go-music-api
 description: Search songs, download playable audio, fetch lyrics, parse music share links, and switch music sources through a local go-music-api backend on Linux, macOS, and Windows. Use when the user asks to search music, play or download a song, get lyrics, resolve music share links, or retry playback from another source after failures. If the backend is missing or unhealthy, install and start go-music-api first.
+repository: https://github.com/scavin/Music-Skill
 ---
 
 # go-music-api
