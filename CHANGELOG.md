@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-- No changes yet.
+- Refactored `SKILL.md` into a smaller routing document.
+- Added `docs/windows.md` for Windows-only instructions.
+- Added `docs/cookies.md` for on-demand cookie configuration guidance.
+- Prepared a ClawHub-friendly `dist/` layout without PowerShell files.
 
 ## [2026-03-26]
 
@@ -21,4 +24,3 @@ All notable changes to this project will be documented in this file.
 
 - Added `repository` URL to `SKILL.md` frontmatter.
 - Added Windows support with PowerShell scripts (`scripts/install.ps1`, `scripts/play.ps1`).
-
